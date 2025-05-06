@@ -17,3 +17,5 @@ node_modules/
 # Mirage generated files
 dune-workspace
 Makefile
+
+.fake
